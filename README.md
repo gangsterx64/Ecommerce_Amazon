@@ -126,6 +126,6 @@ Load the tables and ensure relationships are correctly mapped in the Model view.
 Refresh the report to populate the visuals.
 
 ## 👤 Author
-Jitesh  | SQL | Power BI
+Jitesh  | Python | SQL | Power BI
 
 
